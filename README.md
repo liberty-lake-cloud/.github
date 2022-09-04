@@ -1,8 +1,10 @@
-# Overview
+# github-standards
+This repo is used as a standard "template" for repositories
 
-This repository exists to share Github templates and configuration with other
-repositories within the [`Liberty Lake Cloud`](https://github.com/liberty-lake-cloud)
-organization.
+When creating a new issue, we must make sure we use one of the Vega templates and add the following:
+* Milestone
+* Label
+* Projects - Data team: Analytics Engineering, All Other: Engineering
 
 # Standard Templates
 
@@ -13,11 +15,9 @@ organization.
 
 # Standard Labels
 
-* Bug - for abug
+* Bug - for a bug
 * Feature - for a feature card
 * Issue - thing that doesn't fit anywhere
 * Task - simple developer task
-
-
-**PLEASE NOTE: This repository is public**. It needs to be public for other repositories to
-be able to leverage the templates that it provides.
+* TechDebt - to clean up techdebt
+* Question 
